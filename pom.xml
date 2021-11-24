@@ -47,6 +47,7 @@
 						<environment>${env}</environment>
 						<workerType>${worker}</workerType>
 						<objectStoreV2>true</objectStoreV2>
+						<skipDeploymentVerification>true</skipDeploymentVerification>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
